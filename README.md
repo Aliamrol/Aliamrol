@@ -6,12 +6,9 @@
 * 📫 How to reach me: Aliamrollahiii2002@gmail.com
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aliamrol&theme=onedark&row=1" alt="Trophy" width="91.5%">
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aliamrol&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" width="53%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliamrol&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="38.2%">
 </p>
 
 
