@@ -3,7 +3,7 @@
 
 * 🔭 I’m currently working on Android programming
 * 🌱 I’m currently learning flutter
-* 📫 How to reach me: Aliamrollahiii2002@gmail.com , <p><a href=https://www.linkedin.com/in/ali-amrol-12383022a/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+* 📫 How to reach me: Aliamrollahiii2002@gmail.com
 
 
 
