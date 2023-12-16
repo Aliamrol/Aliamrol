@@ -5,6 +5,12 @@
 * 🌱 I’m currently learning flutter
 * 📫 How to reach me: Aliamrollahiii2002@gmail.com
 
+
+<img src="https://github-profile-trophy.vercel.app/?username=Armansaqarchi&theme=onedark&row=1" alt="Trophy" width="91.5%">
+
+
+
+
  ### :hammer_and_wrench: Languages and Tools :
  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>&nbsp;
