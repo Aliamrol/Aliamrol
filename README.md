@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armansaqarchi&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="38.2%">
-  <img src="https://streak-stats.demolab.com?user=Aliamrol&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" width="53%">
 </p>
 
 
