@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ali Amrol
 
-##About me
+## About me
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/1995parham/1995parham.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/Aliamrol/CV/blob/master/CV.pdf)
 
